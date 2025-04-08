@@ -12,3 +12,12 @@ source .venv/bin/activate
 ```bash
 python -m unittest discover -s tests
 ```
+
+Output:
+```bash
+....
+----------------------------------------------------------------------
+Ran 5 tests in 0.000s
+
+OK
+```
